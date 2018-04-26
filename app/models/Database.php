@@ -1,6 +1,6 @@
 <?php
-namespace Acme\Model;
-use Acme\Controller;
+namespace Acme\Models;
+use Acme\Controllers;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Capsule\Manager as Capsule;
 
